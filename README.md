@@ -1,3 +1,3 @@
 # Codeforces-problems   
-All UVA problems solved by me.  
+All Codeforces problems solved by me.  
 https://codeforces.com/
